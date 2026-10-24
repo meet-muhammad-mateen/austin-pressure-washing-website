@@ -1,0 +1,245 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://pressurewashingaustintx.net/#website",
+      "url": "https://pressurewashingaustintx.net/",
+      "name": "Derkrikorian Exterior Cleaning",
+      "description": "Professional residential and commercial pressure washing, soft washing, roof cleaning, driveway, and limestone cleaning across Austin, TX.",
+      "inLanguage": "en-US",
+      "publisher": {
+        "@id": "https://pressurewashingaustintx.net/#business"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://pressurewashingaustintx.net/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://pressurewashingaustintx.net/#webpage",
+      "url": "https://pressurewashingaustintx.net/",
+      "name": "Derkrikorian Exterior Cleaning | Austin Pressure Washing & Soft Wash",
+      "description": "Expert exterior cleaning in Austin, TX. Soft wash house siding, gentle roof cleaning, driveway pressure washing, pool decks, and limestone restoration.",
+      "isPartOf": {
+        "@id": "https://pressurewashingaustintx.net/#website"
+      },
+      "mainEntity": {
+        "@id": "https://pressurewashingaustintx.net/#business"
+      },
+      "about": {
+        "@id": "https://pressurewashingaustintx.net/#service"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://pressurewashingaustintx.net/#business",
+      "name": "Derkrikorian Exterior Cleaning",
+      "url": "https://pressurewashingaustintx.net/",
+      "logo": "https://pressurewashingaustintx.net/icon.png",
+      "image": "https://pressurewashingaustintx.net/images/Driveway%20pressure%20wash%20cleaning.webp",
+      "description": "Derkrikorian Exterior Cleaning provides professional pressure washing and soft washing services across Austin, TX and surrounding areas. Specializing in siding, roofs, driveways, decks, fences, and limestone restoration.",
+      "telephone": "+1-737-344-9565",
+      "email": "derkrikorianrobert@gmail.com",
+      "priceRange": "$$",
+      "additionalType": "https://en.wikipedia.org/wiki/Pressure_washing",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Pressure_washing"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "5555 N. Lamar Blvd, Bldg C",
+        "addressLocality": "Austin",
+        "addressRegion": "TX",
+        "postalCode": "78751",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.3245,
+        "longitude": -97.7247
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "07:00",
+          "closes": "18:00"
+        }
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+1-737-344-9565",
+          "contactType": "customer service",
+          "areaServed": "Austin, TX",
+          "availableLanguage": [
+            "English"
+          ]
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "Travis County"
+        },
+        {
+          "@type": "City",
+          "name": "Austin"
+        },
+        {
+          "@type": "City",
+          "name": "Round Rock"
+        },
+        {
+          "@type": "City",
+          "name": "Cedar Park"
+        },
+        {
+          "@type": "City",
+          "name": "Pflugerville"
+        },
+        {
+          "@type": "City",
+          "name": "Georgetown"
+        },
+        {
+          "@type": "Place",
+          "name": "West Lake Hills"
+        },
+        {
+          "@type": "Place",
+          "name": "Lakeway"
+        },
+        {
+          "@type": "Place",
+          "name": "Bee Cave"
+        },
+        {
+          "@type": "Place",
+          "name": "Buda"
+        },
+        {
+          "@type": "PostalCode",
+          "name": "78751"
+        },
+        {
+          "@type": "PostalCode",
+          "name": "78701"
+        }
+      ],
+      "serviceType": [
+        "House Washing",
+        "Roof Cleaning & Soft Wash",
+        "Driveway & Concrete Cleaning",
+        "Patio & Pool Deck Cleaning",
+        "Deck & Fence Cleaning",
+        "Limestone & Stone Cleaning",
+        "Commercial Concrete Cleaning",
+        "Exterior Pressure Washing"
+      ],
+      "knowsAbout": [
+        "Pressure Washing",
+        "Soft Washing",
+        "Roof Stain Removal",
+        "Concrete Surface Cleaning",
+        "Limestone Restoration",
+        "Algae and Mildew Removal",
+        "Deck Sealing and Washing",
+        "Commercial Property Maintenance"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Exterior Cleaning Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "House Washing"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Roof Cleaning & Soft Wash"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Driveway & Concrete Cleaning"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Patio & Pool Deck Cleaning"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Deck & Fence Cleaning"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Limestone & Stone Cleaning"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Commercial Concrete Cleaning"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Exterior Pressure Washing"
+            }
+          }
+        ]
+      },
+      "mainEntityOfPage": {
+        "@id": "https://pressurewashingaustintx.net/#webpage"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://pressurewashingaustintx.net/#service",
+      "name": "Pressure Washing & Soft Washing Services",
+      "description": "Complete residential and commercial pressure washing and soft washing solutions for siding, roofs, driveways, decks, and limestone in Austin, TX.",
+      "serviceType": "Pressure Washing & Soft Washing Services",
+      "provider": {
+        "@id": "https://pressurewashingaustintx.net/#business"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Travis County"
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD"
+      }
+    }
+  ]
+}
